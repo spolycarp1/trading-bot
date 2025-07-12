@@ -1,1 +1,1 @@
-tradingbot 
+tradingbot
